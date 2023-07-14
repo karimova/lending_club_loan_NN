@@ -2,13 +2,13 @@
 <img src="p-2.jpg" alt="loan" width="600">
 
 ## Problem Statement
-For companies like Lending Club, accurately predicting whether a loan will default is of utmost importance. In this project, using historical data from 2007 to 2015, we aim to build a deep learning model that predicts the likelihood of default for future loans. The dataset is highly imbalanced and includes numerous features, making this problem particularly challenging.
+For companies like Lending Club, accurately predicting loan defaults is of utmost importance. In this project, I aim to build a Deep-Learning model using historical data from 2007 to 2015 to predict the likelihood of default for future loans. The dataset is highly imbalanced and contains a wide range of features, posing significant challenges to address.
 
 ## Domain
 Finance
 
 ## Analysis to be Done
-Perform data preprocessing and build a deep learning prediction model.
+Perform data preprocessing and build a Deep-Learning prediction model.
 
 ## Dataset
 The dataset contains the following columns and their definitions:
@@ -35,12 +35,6 @@ The dataset contains the following columns and their definitions:
 
 3. Additional Feature Engineering: Check the correlation between features and drop those with strong correlations. This will reduce the number of features and leave us with the most relevant ones.
 
-4. Modeling: After EDA and feature engineering, we will build a deep learning model using Keras with the Tensorflow backend.
+4. Modeling: After EDA and feature engineering, I built a Deep-Learning model using Keras with the TensorFlow backend.
 
 
-
-4.     Modeling
-
-After applying EDA and feature engineering, you are now ready to build the predictive models
-
-In this part, you will create a deep learning model using Keras with Tensorflow backend
